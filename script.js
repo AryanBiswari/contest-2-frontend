@@ -57,6 +57,6 @@ submitButton.addEventListener('click', (event) => {
     }
   }
   else{
-    alert('Please enter a valid email address and password')
+    console.log('Please enter a valid email address and password')
   }
 });
