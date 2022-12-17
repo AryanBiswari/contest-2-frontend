@@ -56,7 +56,4 @@ submitButton.addEventListener('click', (event) => {
         passwordInput.value = '';
     }
   }
-  else{
-    console.log('Please enter a valid email address and password')
-  }
 });
